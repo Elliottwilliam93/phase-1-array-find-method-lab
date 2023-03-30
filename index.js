@@ -12,4 +12,4 @@ function superbowlWin(array) {
         }
     });
     return result
-}
+} 
